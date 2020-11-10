@@ -1,9 +1,0 @@
-ru\omsu\imit\course32\model\Book.class
-ru\omsu\imit\course32\model\Reader.class
-ru\omsu\imit\course32\daoimpl\BookDAOImpl.class
-ru\omsu\imit\course32\model\Library.class
-ru\omsu\imit\course32\dao\BookDAO.class
-ru\omsu\imit\course32\dao\providers\BookDAOProvider.class
-ru\omsu\imit\course32\utils\MyBatisUtils.class
-ru\omsu\imit\course32\mappers\BookMapper.class
-ru\omsu\imit\course32\daoimpl\BaseDAOImpl.class
